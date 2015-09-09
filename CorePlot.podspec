@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
                  'Eric Skroch'    => 'eskroch@mac.com',
                  'Barry Wark'     => 'barrywark@gmail.com' }
 
-  s.source   = { :git => 'https://github.com/core-plot/core-plot.git' }
+  s.source   = { :git => 'https://github.com/benleiken/core-plot.git' }
 
   s.description = 'Core Plot is a plotting framework for OS X and iOS. It provides 2D visualization ' \
                   'of data, and is tightly integrated with Apple technologies like Core Animation, ' \
